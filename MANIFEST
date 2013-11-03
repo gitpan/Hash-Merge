@@ -1,8 +1,11 @@
 Changes
+lib/Hash/Merge.pm
 Makefile.PL
-MANIFEST
-Merge.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.json
+META.yml
 README
-t/merge.t
-t/oo.t
-META.yml                                 Module meta-data (added by MakeMaker)
+t/00-load.t
+t/01-merge.t
+t/02-oo.t
